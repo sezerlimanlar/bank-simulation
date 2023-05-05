@@ -8,7 +8,7 @@
 const account1 = {
   owner: 'Sezer Limanlar',
   movements: [300, 700, -500, -250, 740, 255, -150, 870],
-  interestRate: 1.2, // %
+  interestRate: 1.2,
   pin: 111,
   movementsDates: [
     '2020-11-18T21:31:17.178Z',
@@ -21,7 +21,7 @@ const account1 = {
     '2023-05-01T10:51:36.790Z',
   ],
   currency: 'TRY',
-  locale: 'tr-TR', // de-DE
+  locale: 'tr-TR',
 };
 
 const account2 = {
